@@ -1,0 +1,51 @@
+Food Name,Category Name,Calcium,Calories,Omega-3 - DHA,Protein,Vitamin A,Vitamin B1,Vitamin C,Sugar,Vitamin D,Vitamin E
+Apple,Fruits,6,52,0,26,54,2,46,10,0,18
+Avocado,Fruits,12,160,0,2,146,7,10,66,0,21
+Banana,Fruits,5,89,0,11,64,3,87,12,0,1
+Blackberry,Fruits,29,43,0,14,214,2,21,49,0,12
+Blueberry,Fruits,6,57,0,74,54,4,97,10,0,57
+Cherry,Fruits,16,50,0,1,1283,3,10,85,0,7
+Cranberry,Fruits,8,46,0,46,63,1,14,43,0,13
+Dates,Fruits,39,282,0,25,10,5,4,63,0,5
+Grape,Fruits,14,67,0,63,100,9,4,16,0,19
+Guava,Fruits,18,68,0,26,624,7,228,89,0,73
+Kiwifruit,Fruits,34,61,0,11,87,3,93,9,0,15
+Lemon,Fruits,26,29,0,11,22,4,53,25,0,15
+Lime,Fruits,33,30,0,7,50,3,29,17,0,22
+Mango,Fruits,11,60,0,82,1082,3,36,14,0,9
+Melon,Fruits,11,28,0,11,0,2,22,57,0,5
+Orange,Fruits,40,47,0,94,225,9,53,94,0,18
+Mandarin orange,Fruits,37,53,0,81,681,6,27,11,0,2
+Papaya,Fruits,20,43,0,47,950,2,61,78,0,3
+Peach,Fruits,6,39,0,91,326,2,66,84,0,73
+Pear,Fruits,9,57,0,36,25,1,43,98,0,12
+Pineapple,Fruits,13,50,0,54,58,8,48,99,0,2
+Prunes,Fruits,43,240,0,22,781,5,6,38,0,43
+Rambutan,Fruits,22,82,,65,3,1,49,,,
+Strawberry,Fruits,16,32,0,67,12,2,59,49,0,29
+Watermelon,Fruits,7,30,0,61,569,3,81,62,0,5
+Sour cherry,Fruits,11,42,,69,,3,3,7,,
+Durian,Fruits,6,147,,15,44,37,20,,,
+Crateva religiosa,Fruits,8,69,,15,100,,54,86,,
+Clementine,Fruits,30,47,,85,,9,49,92,0,2
+Coconut,Fruits,14,354,0,33,0,7,33,62,0,24
+Rose hip,Fruits,169,162,,16,4345,2,426,26,,58
+Green bean,Vegetables,44,35,0,19,633,7,97,36,0,46
+Broccoli,Vegetables,47,34,0,28,623,7,89,17,0,78
+Cabbage,Vegetables,40,25,0,13,98,6,37,32,0,15
+Carrot,Vegetables,33,41,0,93,16706,7,59,47,0,66
+Cauliflower,Vegetables,22,25,0,19,0,5,48,19,0,8
+Corn,Vegetables,3,96,0,34,263,9,55,45,0,9
+Cucumber,Vegetables,16,15,0,65,105,3,28,17,0,3
+Garlic,Vegetables,181,149,0,64,9,2,31,1,0,8
+Ginger,Vegetables,16,80,0,18,0,3,5,17,0,26
+Okra,Vegetables,82,33,0,19,716,2,23,15,0,27
+Onion,Vegetables,23,40,0,11,2,5,74,42,0,2
+Sweet onion,Vegetables,20,32,,8,1,4,48,5,0,2
+Onion rings,Vegetables,31,276,0,41,0,19,16,51,0,46
+Red potato,Vegetables,9,89,0,23,10,7,13,14,0,8
+Pumpkin,Vegetables,15,20,0,72,5755,3,47,21,0,8
+Seaweed,Vegetables,168,43,0,17,116,5,3,6,0,87
+Sweet potato,Vegetables,38,90,0,2,19218,11,20,65,0,71
+Taro,Vegetables,43,112,0,15,76,1,45,4,0,24
+Tomato,Vegetables,10,18,0,88,833,4,14,26,0,54
