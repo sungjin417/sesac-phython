@@ -44,7 +44,7 @@ if 'vector_store' not in st.session_state:
 if 'memory' not in st.session_state:
     st.session_state.memory = ConversationBufferMemory(memory_key = 'chat_history', return_messages = True)
 if 'messages_displayed' not in st.session_state:
-    st.session_state.message_displayed = []
+    st.session_state.messages_displayed = []
 
 
 # 뉴스 로드
